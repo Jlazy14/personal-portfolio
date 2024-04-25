@@ -20,7 +20,7 @@ img{
 
 nav{
     padding: 20px 148px;
-    background-color: #fff;
+    background-color: #59dfa7;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -177,7 +177,7 @@ nav .nav-links a.selected{
     gap: 30px;
     margin-bottom: 30px;
     padding-bottom: 30px;
-    border-bottom: 2px solid #e0e0e0;
+    border-bottom: 2px solid #515153;
 }
 
 .featured .item img,
